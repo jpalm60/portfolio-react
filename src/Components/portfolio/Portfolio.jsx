@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../Assets/AmazonPrime.png'
 import IMG2 from '../../Assets/AggieFinal2.jpg'
-import IMG3 from '../../Assets/portfolio1.jpg'
+import IMG3 from '../../Assets/soleismine.png'
 import IMG4 from '../../Assets/portfolio2.jpg'
 import IMG5 from '../../Assets/portfolio3.jpg'
 import IMG6 from '../../Assets/portfolio5.png'
@@ -25,9 +25,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Coming Soon!',
+    title: 'Sneaker Wordpress Website',
     github: 'https://github.com/cacwilliams7/prime-points-2.0',
-    demo: 'https://github.com/cacwilliams7/prime-points-2.0/blob/master/src/index.html'
+    demo: 'https://www.thesolemine.com/'
   },
   {
     id: 4,
